@@ -17,3 +17,5 @@ namespace Mjolnir
         }
     }
 }
+version=4.0
+gameversion=7.0
